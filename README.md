@@ -30,7 +30,7 @@ The game randomly selects two accounts from the dataset and presents them to you
 
 ## Play Online! :rocket:
 
-You can also play the game without installing anything! Just head over to this [link](<insert link here>) and start guessing the follower counts.
+You can also play the game without installing anything! Just head over to this [Click here to play the game](https://replit.com/@mevinabraham/Higher-Lower-Game#main.py) and start guessing the follower counts.
 
 ## Note 📝
 
